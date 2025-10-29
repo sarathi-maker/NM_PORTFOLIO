@@ -1,1 +1,1 @@
-https://github.com/sarathi-maker/NM_PORTFOLIO
+https://sarathi-maker.github.io/NM_PORTFOLIO/
